@@ -14,7 +14,7 @@ The website also includes interactive sections where visitors can explore my hob
 
 Features of the Website
 
- Personal Profile – Introduction and professional background
+Personal Profile – Introduction and professional background
 About Me – Overview of my skills, experience, and interests
 Education– Displays my academic background
 Skills – Showcases my insurance, automation, QA, customer service, and research skills
@@ -24,8 +24,7 @@ Music Player – Allows visitors to listen to a selected song
 Photo Gallery – Displays photos related to my interests
 Career Goals – Presents my professional goals and future objectives
 Contact Information – Provides email, phone, and LinkedIn contact details
-Responsive Design – Website layout adjusts for different screen sizes
-Downloadable CV – Visitors can download my CV directly from the website
+Downloadable CV – here you can download my CV directly from the website
 
 Technologies Used
 
@@ -43,12 +42,17 @@ GitHub Repository
 https://github.com/gaylballesteros/Portfolio-Website
 
 Screenshot of the Website
-<img width="1345" height="750" alt="image" src="https://github.com/user-attachments/assets/a8842d49-83b4-45bc-bdb0-875bd6505a12" />
-<img width="1341" height="721" alt="image" src="https://github.com/user-attachments/assets/2b8e3196-fea2-43ce-bc3d-6baf90b0474d" />
-<img width="1346" height="650" alt="image" src="https://github.com/user-attachments/assets/71471ac1-5c15-470a-8d16-d89ba610a186" />
-<img width="1332" height="803" alt="image" src="https://github.com/user-attachments/assets/1b5fa5bc-7533-42e0-b0b3-33558fbdb2be" />
-<img width="1351" height="617" alt="image" src="https://github.com/user-attachments/assets/ee2f09fc-4f4e-4bbc-88c5-e26a85c721ff" />
-<img width="1366" height="875" alt="image" src="https://github.com/user-attachments/assets/5451d4e0-4a10-4aee-a80c-e6db6ca219c3" />
+<img width="1400" height="772" alt="image" src="https://github.com/user-attachments/assets/26173eda-c9ed-4333-8b3d-7c79f323c21d" />
+<img width="1383" height="612" alt="image" src="https://github.com/user-attachments/assets/f817432c-668b-4472-b5f4-e548e215ce44" />
+<img width="742" height="627" alt="image" src="https://github.com/user-attachments/assets/71d2c8fd-efde-44d3-a7a1-5f203fc731ce" />
+<img width="1301" height="775" alt="image" src="https://github.com/user-attachments/assets/0b57c77f-4c4c-4b35-98f5-341a107548f9" />
+<img width="1320" height="626" alt="image" src="https://github.com/user-attachments/assets/306a0499-7114-41fb-8da9-2a6df6cb3acd" />
+<img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/6303f62e-1812-4913-b61b-1a11254d0bef" />
+
+
+
+
+
 
 
 
